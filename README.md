@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Atualmente estudando Typescript
+- 🔭 Hoje faço faculdade na área
+- 🌱 Atualmente me aprofundando em back-end
 - 😉 Busco constante evolução na área de programação
 
 <div style="display: inline_block"><br>
