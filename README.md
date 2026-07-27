@@ -11,6 +11,7 @@
 <img src="./wordmark.svg" width="720" alt="AVI — 3D ASCII wordmark" />
 
 <br>
+<br>
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
