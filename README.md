@@ -47,11 +47,11 @@ Front-end para o sistema de gestão<br>
 em desenvolvimento.
 
 <p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/React-111820?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-111820?style=flat-square&logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/Vite-111820?style=flat-square&logo=vite&logoColor=646CFF">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/React-111820?style=flat-square&logo=react&logoColor=61DAFB">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/TypeScript-111820?style=flat-square&logo=typescript&logoColor=3178C6">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/Tailwind-111820?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
 </p>
 
 **[Ver repositório →](#)**
@@ -66,10 +66,10 @@ Back-end para o gerenciamento de veículos<br>
 com autenticação e validações.
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-111820?style=flat-square&logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/React-111820?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/TypeScript-111820?style=flat-square&logo=typescript&logoColor=3178C6">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/React-111820?style=flat-square&logo=react&logoColor=61DAFB">
+  <img style="vertical-align: middle;" src="https://img.shields.io/badge/Prisma-111820?style=flat-square&logo=prisma&logoColor=white">
 </p>
 
 **[Ver repositório →](#)**
