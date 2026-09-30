@@ -62,7 +62,7 @@ em desenvolvimento.
 
 ### 🚗 &nbsp; MaintFlow API
 
-Back-end para o gerenciamento de veículos<br>
+Back-end para o gerenciamento de veículos
 com autenticação e validações.
 
 <p>
