@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-- 🚀 Estudante de Ciência da Computação
+- 🚀 Estudante de Ciência da Computação (6/8)
 - 💻 Foco atual em desenvolvimento Back-end
 - 🧠 Estudando arquitetura de sistemas e boas práticas de desenvolvimento
 - 🔌 Trabalhando com APIs, bancos de dados relacionais e ORM
@@ -29,8 +29,6 @@ de manutenção, transformando processos manuais em um sistema centralizado.
 <img src="https://img.shields.io/badge/Express-111820?style=flat-square&logo=express&logoColor=FFFFFF">
 </p>
 
-**[Ver repositório →](#)**
-
 </td>
 </tr>
 </table>
@@ -43,10 +41,10 @@ de manutenção, transformando processos manuais em um sistema centralizado.
 <tr>
 <td width="33%" valign="top">
 
-### 📖 &nbsp; MaintFlow
+### 🔧 &nbsp; MaintFlow WEB
 
-Sistema de gestão para oficina<br>
-mecânica de linha pesada.
+Front-end para o sistema de gestão<br>
+em desenvolvimento.
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-111820?style=flat-square&logo=node.js&logoColor=7DBF00">
@@ -60,9 +58,9 @@ mecânica de linha pesada.
 
 <td width="33%" valign="top">
 
-### 🚗 &nbsp; API de Veículos
+### 🚗 &nbsp; MaintFlow API
 
-API para gerenciamento de veículos<br>
+Back-end para o gerenciamento de veículos<br>
 com autenticação e validações.
 
 <p>
