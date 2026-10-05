@@ -1,15 +1,5 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait of the dp, types itself in then holds.
-     python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py -->
-
-<h3><code>avi@github ~ $ whoami</code></h3>
-
-<img src="./avi-ascii.svg" width="640" alt="Avi Vashishta" />
-
-<br>
-<br>
-
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
@@ -20,12 +10,19 @@
 <br>
 <br>
 
-<!-- streak + numbers, rendered from data/contributions.json by
-     scripts/render_stats_svg.py (same daily workflow) -->
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
 
-<h3><code>avi@github ~ $ ./stats.sh</code></h3>
+<h3><code>avi@github ~ $ whoami</code></h3>
 
-<img src="./stats.svg" width="860" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" />
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
 <br>
 <br>
