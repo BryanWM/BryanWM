@@ -9,6 +9,13 @@ USER = sys.argv[1] if len(sys.argv) > 1 else "AVIVASHISHTA29"
 OUT  = sys.argv[2] if len(sys.argv) > 2 else "streak.svg"
 
 def get_data(user):
+    # prefer the snapshot fetch_contributions.py just scraped from github itself,
+    # so this graph and stats.svg always agree on the numbers
+    snap = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "contributions.json")
+    if os.path.exists(snap):
+        d = json.load(open(snap))
+        if d.get("username", "").lower() == user.lower() and all("level" in x for x in d["days"]):
+            return {"contributions": d["days"], "total": {"lastYear": d["total_contributions"]}}
     url = f"https://github-contributions-api.jogruber.de/v4/{user}?y=last"
     try:
         with urllib.request.urlopen(url, timeout=25) as r:

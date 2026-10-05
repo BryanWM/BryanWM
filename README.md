@@ -1,20 +1,11 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
+<!-- hero: monochrome ASCII portrait of the dp, types itself in then holds.
+     python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py -->
 
 <h3><code>avi@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
-</tr>
-</table>
+<img src="./avi-ascii.svg" width="560" alt="Avi Vashishta — ASCII portrait" />
 
 <br>
 <br>
@@ -25,6 +16,16 @@
 <h3><code>avi@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<!-- streak + numbers, rendered from data/contributions.json by
+     scripts/render_stats_svg.py (same daily workflow) -->
+
+<h3><code>avi@github ~ $ ./stats.sh</code></h3>
+
+<img src="./stats.svg" width="860" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" />
 
 <br>
 <br>
