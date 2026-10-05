@@ -23,10 +23,13 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "source-prepped.png")
 OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(HERE, "..", "avi-ascii.svg")
 
-COLS = 100
-ROWS = 53
-CELL_W = 8
-CELL_H = 15
+# more columns = more detail (eyes need ~6+ chars across to read). the art
+# stays ART_W px wide either way; cells shrink, keeping a ~1:1.875 char aspect.
+COLS = int(os.environ.get("COLS", 180))
+ART_W_TARGET = 800
+CELL_W = ART_W_TARGET / COLS
+CELL_H = CELL_W * 15 / 8
+ROWS = round(COLS * 8 / 15)
 RAMP = " .`:-=+*cs#%@"  # bright(sparse) -> dark(dense); leading space clears bg
 
 # the prepped image already has bg removed + CLAHE local contrast, so only
@@ -53,8 +56,8 @@ INK = "#c9d1d9"      # the single ascii color (matches Andrew6rant)
 CURSOR = "#c9d1d9"
 
 # ---- reveal timing (one-shot; a cursor rasters top -> bottom) -------------
-ROW_DUR = 0.11
-STAGGER = 0.11       # == ROW_DUR -> a single cursor sweeping down
+ROW_DUR = 5.8 / ROWS  # whole portrait prints in ~6s at any resolution
+STAGGER = ROW_DUR       # == ROW_DUR -> a single cursor sweeping down
 
 # ---- 1. sample the image into a COLS x ROWS grayscale grid ----------------
 im = Image.open(SRC).convert("L")               # grayscale

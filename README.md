@@ -5,7 +5,7 @@
 
 <h3><code>avi@github ~ $ whoami</code></h3>
 
-<img src="./avi-ascii.svg" width="560" alt="Avi Vashishta — ASCII portrait" />
+<img src="./avi-ascii.svg" width="640" alt="Avi Vashishta — ASCII portrait" />
 
 <br>
 <br>
