@@ -31,9 +31,9 @@
 <p><b>Fullstack Developer</b></p>
 
 <!-- TODO: trocar SEU_USUARIO / SEU_SITE pelos links reais -->
-[![Portfólio](https://img.shields.io/badge/Portfólio-SEU_SITE-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_SITE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-SEU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_SITE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanmarquess)
+[![Instagram](https://img.shields.io/badge/Instagram-SEU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryann.wb/)
 
 <br>
 
