@@ -31,7 +31,7 @@
 <p><b>Fullstack Developer</b></p>
 
 <!-- TODO: trocar SEU_USUARIO / SEU_SITE pelos links reais -->
-[![Portfólio](https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_SITE)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Wendrix-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.wendrix.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanmarquess)
 [![Instagram](https://img.shields.io/badge/Instagram-SEU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryann.wb/)
 
