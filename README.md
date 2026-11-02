@@ -32,7 +32,7 @@
 
 <!-- TODO: trocar SEU_USUARIO / SEU_SITE pelos links reais -->
 [![Portfólio](https://img.shields.io/badge/Portfólio-Wendrix-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.wendrix.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanmarquess)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BryanㅤMarques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanmarquess)
 [![Instagram](https://img.shields.io/badge/Instagram-bryann.wb-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryann.wb/)
 
 <br>
